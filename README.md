@@ -5,8 +5,11 @@
 
 
 ## Sobre mi
-
+<div align="center">
 👨🏻‍🎓 Graduado en ADE (2018) 👨🏻‍🎓
+<div align="center">
 💰​ Máster en Dirección Financiera y Control de Gestión (2020) ​💰​
+<div align="center">
 🖥️​🧑🏻‍💼​ Máster en Business Analytics and Data Strategy (2024) 🖥️​🧑🏻‍💼​
+<div align="center">
 🖥️ IBM Data Analyst Professional Certificate (2024) 🖥️

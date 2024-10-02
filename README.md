@@ -1,16 +1,22 @@
-## Hi there, I am Javier👋
+<div align="center">
+<h1 align="center">Hola, soy Javier👋</h1>
+</div>
+<img src="https://www.muylinux.com/wp-content/uploads/2019/06/bigdata.jpg" />
 
-<!--
-**JavierFF2091/JavierFF2091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍🎓 Graduado en ADE 👨🏻‍🎓
+- ​💰​ Máster en Dirección Financiera y Control de Gestión ​💰​
+- 🖥️​🧑🏻‍💼​ Máster en Business Analytics and Data Strategy 🖥️​🧑🏻‍💼​
+
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

@@ -9,5 +9,4 @@
 - 👨🏻‍🎓 Graduado en ADE (2018) 👨🏻‍🎓
 - 💰​ Máster en Dirección Financiera y Control de Gestión (2020) ​💰​
 - 🖥️​🧑🏻‍💼​ Máster en Business Analytics and Data Strategy (2024) 🖥️​🧑🏻‍💼​
-
 <br>
